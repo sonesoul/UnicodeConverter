@@ -1,0 +1,8 @@
+D:\dotnet\Unicode Converter plus\bin\Debug\Unicode Converter plus.exe.config
+D:\dotnet\Unicode Converter plus\bin\Debug\Unicode Converter plus.exe
+D:\dotnet\Unicode Converter plus\bin\Debug\Unicode Converter plus.pdb
+D:\dotnet\Unicode Converter plus\obj\Debug\Unicode Converter plus.csproj.AssemblyReference.cache
+D:\dotnet\Unicode Converter plus\obj\Debug\Unicode Converter plus.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\Unicode Converter plus\obj\Debug\Unicode Converter plus.csproj.CoreCompileInputs.cache
+D:\dotnet\Unicode Converter plus\obj\Debug\Unicode Converter plus.exe
+D:\dotnet\Unicode Converter plus\obj\Debug\Unicode Converter plus.pdb
